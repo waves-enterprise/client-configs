@@ -1,0 +1,14 @@
+{
+  "version": 1,
+  "whitelist": [],
+  "blacklist": [],
+  "network_config": {
+    "mainnet": {
+      "code": "V",
+      "server": "https://client.wavesenterprise.com/node-0/",
+      "matcher": "",
+      "authServiceAddress": "https://client.wavesenterprise.com/authServiceAddress/",
+      "serviceToken": "4zgcvfCYhwTzfemJsTuQU9c7SCTe8vSFt8a5CAJ5G7AdzGaxNxKzVuH8Dzf8sest"
+    }
+  }
+}
