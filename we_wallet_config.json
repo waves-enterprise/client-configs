@@ -5,7 +5,7 @@
   "network_config": {
     "mainnet": {
       "code": "V",
-      "server": "https://client.wavesenterprise.com/node-0/",
+      "server": "https://client.wavesenterprise.com/nodeAddress/",
       "matcher": "",
       "authServiceAddress": "https://client.wavesenterprise.com/authServiceAddress/",
       "serviceToken": "we_wallet_token"
